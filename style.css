@@ -1,0 +1,42 @@
+#a{
+    color: lawngreen;
+    background-color: yellow;
+}
+p{
+    background-color:rgb(30, 183, 210);
+    color: antiquewhite;
+    font-size: large;
+}
+#g{
+    background-color: rgb(251, 195, 152);
+    background-size: cover  ;
+    border-color: darkgreen;
+}
+#b{
+    color: lawngreen;
+    background-color: yellow;
+}
+a{
+    color: rgb(255, 0, 0);
+}
+#z{
+    background-color: rgb(152, 251, 239);
+    background-size: cover;
+}
+#q{
+    color: rgb(100, 32, 246);
+	text-align:enter;
+}
+#r{
+	color:red;
+    background-color: deepskyblue;
+}
+#c{
+    color: rgb(107, 119, 189);
+}
+#w{
+    background-color: deepskyblue;
+}
+#l{
+    background-color:deepskyblue ;
+}
